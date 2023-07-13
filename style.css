@@ -1,0 +1,141 @@
+.abc {
+  text-decoration: none;
+}
+.abcd {
+  text-decoration: none;
+  border: 1px solid red;
+  padding: 10px 10px;
+}
+.abcd:hover {
+  background-color: chocolate;
+}
+.a {
+  width: 355px;
+  margin-bottom: 20px;
+  background-color: azure;
+  /* border: 1px solid red; */
+  border-radius: 10px;
+}
+.b2 {
+  margin: 0 auto 0 auto;
+  margin-bottom: 20px;
+}
+.b3 {
+  margin: 0 0 0 auto;
+  margin-bottom: 20px;
+}
+
+div h4 {
+  color: coral;
+}
+.abcde {
+  text-decoration: none;
+  border: 1px solid red;
+  padding: 10px 10px;
+}
+.abcde:hover {
+  background-color: chocolate;
+  color: white;
+}
+.box {
+  width: 300px;
+  background-color: beige;
+  border: 1px solid red;
+  border-radius: 20px;
+  padding: 30px 30px;
+  margin: 20px;
+  margin: 0 auto 0 auto;
+}
+
+.tv a {
+  border: 1px solid red;
+  text-decoration: none;
+  background-color: #cc0c39;
+}
+.tv a:hover {
+  color: white;
+}
+.tv {
+  padding: 20px;
+  max-width: 50%;
+  width: 300px;
+  background-color: beige;
+  border: 1px solid red;
+  border-radius: 20px;
+  margin: 0 0 0 auto;
+  margin-top: 30px;
+}
+.tv h5 {
+  display: inline-block;
+}
+.css {
+  width: 300px;
+  height: 250px;
+  border: 1px double blueviolet;
+  margin: 20px auto 20px auto;
+  padding: 20px;
+  background-image: url(./image/Love2.jpg);
+  color: white;
+  border-radius: 20px;
+}
+.sakib {
+  width: 400px;
+  height: 350px;
+  border: 1px dotted black;
+  border-radius: 30px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.sakib p {
+  color: coral;
+}
+.sakib span {
+  color: coral;
+}
+.sakib:hover {
+  background-image: url(./image/Sakib.jpg);
+  background-position: top;
+}
+.Export {
+  margin: 20px auto 20px auto;
+  border-radius: 20px;
+  width: 370px;
+  height: 400px;
+  background-color: bisque;
+}
+.Export:hover {
+  color: blue;
+}
+.video {
+  background-image: linear-gradient(to left, red, yellow);
+  padding: 20px;
+  margin: 20px 0 30px auto;
+  border: 1px solid blue;
+  border-radius: 20px;
+  width: 370px;
+  height: 380px;
+  background-color: bisque;
+}
+.it {
+  background-image: linear-gradient(to right, red, yellow);
+  margin: 0 auto 0 auto;
+  width: 350px;
+  height: 300px;
+  padding: 25px;
+  border: 1px solid black;
+  border-radius: 15px;
+  line-height: 1.5em;
+}
+.tab {
+  margin-left: 50px;
+}
+.table {
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 15px;
+}
+.table:hover {
+  background-color: chocolate;
+  color: white;
+}
